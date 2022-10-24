@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Rajeswari Vadivel
-          Financial Technology Master student with good experience in IT industry ( esp in  database and trading app support). 
+          Financial Technology Master student with good experience in IT industry ( esp in  Database , Data Engineering and trading app support). 
 - 👀 I’m interested in ...
--   Area of interest - Quantitative Finance, Blockchain, Derivative pricing , Statistical Modelling 
--   Programming - Python , Solidity 
-- 💞️I'm currently focusing on block chain development using Solidity , data analysis (statistical modelling) using python
+-   Area of interest - Data Engineering, Quantitative Finance, Blockchain, Statistical Modelling 
+-   Programming - Python , SQL  
+- 💞️I'm currently focusing on NFT data engineering and  data analysis (statistical modelling) using pyspark and SQL 
 
 My linkedin profile - https://www.linkedin.com/in/rajeswari-vadivel/
 <!---
